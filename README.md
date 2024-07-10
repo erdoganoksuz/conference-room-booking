@@ -113,8 +113,18 @@ Take a look to `docs` folder for docker compose video.
 
 - https://github.com/erdoganoksuz/conference-room-booking/blob/master/docs/docker-compose.mp4
 
+
+https://github.com/erdoganoksuz/conference-room-booking/assets/13199681/6909bf52-5a61-497c-b1f1-631482d87e94
+
+
+
 ## Full Demo Video
 
 Take a look to `docs` folder for full demo video.
 
 - https://github.com/erdoganoksuz/conference-room-booking/blob/master/docs/full-demo.mp4
+
+
+https://github.com/erdoganoksuz/conference-room-booking/assets/13199681/52ad3f20-3812-4f5e-ba35-d5a66a3fa6e4
+
+
