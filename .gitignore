@@ -3,3 +3,4 @@ dist
 /database
 coverage
 documentation
+.DS_Store

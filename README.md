@@ -111,10 +111,10 @@ $ npm run start:prod
 
 Take a look to `docs` folder for docker compose video.
 
-- https://github.com/erdoganoksuz/conference-room-booking/blob/master/docs/docker-compose.mov
+- https://github.com/erdoganoksuz/conference-room-booking/blob/master/docs/docker-compose.mp4
 
 ## Full Demo Video
 
 Take a look to `docs` folder for full demo video.
 
-- https://github.com/erdoganoksuz/conference-room-booking/blob/master/docs/full-demo.mov
+- https://github.com/erdoganoksuz/conference-room-booking/blob/master/docs/full-demo.mp4
